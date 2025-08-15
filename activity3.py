@@ -1,0 +1,7 @@
+print#("Happy Moday")
+print#("BSIT 1A \n from DLL")
+print("BSIT 1A \n\t\tfrom DLL")
+print("The Quick Brown Jumps over the Lazy Dog")
+print("The Quick Brown \rJumps over the Lazy Dog")
+print("The Quick Brown \rJumps over the \\Lazy Dog")
+print("\"Ikaw lang sapat na\"")
